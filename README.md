@@ -38,7 +38,7 @@ Tecnologias e ferramentas utilizadas neste projeto:
 
 
 ##  Instalação e Inicialização 
-Antes de iniciar, você precisa ter o [ Git ] (https://git-scm.com) e o [ Node ] (https://nodejs.org/en/) instalados.
+Antes de iniciar, você precisa ter o [ Git ](https://git-scm.com) e o [ Node ](https://nodejs.org/en/) instalados.
 
 ```bash
 # Clone este projeto
@@ -58,6 +58,6 @@ $ yarn start
 
 ##  Licença
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [ LICENSE ] (LICENSE.md).
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [ LICENSE ](https://github.com/willnogueyra/dtmoney/blob/master/LICENSE).
 
 Feito com 💜 por <a href="https://github.com/willnogueyra" target="_blank"> William Nogueira </a>
