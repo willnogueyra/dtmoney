@@ -14,15 +14,21 @@
 O dtmoney é uma aplicação de controle financeiro. Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nela é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💲💲
 
 
-## Visualização
+## Visualização da Aplicação
 
 <div align="center">
   <img src="./public/dtmoney.gif">
 </div>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<div align="center">
 
+> Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+### **Para testar a aplicação funcionando, [clique aqui](https://dtmoney-ten.vercel.app/).**
+
+</div>
+
+<br>
 
 ## Tecnologias
 
